@@ -1,0 +1,1 @@
+alert("JS文件夹下面的script.js文件");
